@@ -36,4 +36,10 @@
     Total priorities of the badges: 2479
     Answer = 2479 ✅
     
+> Day 4: Medium (Still too late to be programming, never would've guessed formulas)
 
+    Part 1:
+    Answer = 584 ✅
+    
+    Part 2:
+    Answer = 933 ✅
