@@ -15,6 +15,16 @@
     The total is: 206289
     Answer = 206289 ✅
 
+> Day 2: Easy
+
+    Part 1:
+    My total score was: 12794 (Part 1)
+    Answer = 12794 ✅
+    
+    Part 2:
+    My total score was: 14979 (Part 2)
+    Answer = 14979 ✅
+
 
     
     
