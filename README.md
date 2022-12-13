@@ -53,3 +53,11 @@
     Part 2:
     The final code is: FSZWBPTBG ✅
     (Stacks were): [['F', 'B', 'M', 'C', 'G'], ['S', 'Q', 'W', 'M', 'V'], ['Z', 'C', 'S', 'T', 'B'], ['W', 'J', 'D', 'M', 'B', 'S'], ['B', 'Q', 'P', 'J', 'T', 'H', 'G', 'T', 'N', 'G', 'F', 'G', 'N', 'W', 'F', 'Q', 'W'], ['P'], ['T', 'M', 'J', 'H', 'S', 'P', 'T', 'C', 'Z'], ['B', 'V', 'T', 'N'], ['G', 'H', 'S', 'L']]
+
+> Day 6: Easy
+
+    Part 1:
+    The final packet code was: hvtq, which finishes at place 1155. ✅
+    
+    Part 2:
+    The final message code was: jzprftbqvdsghn, which finishes at place 2789. ✅
