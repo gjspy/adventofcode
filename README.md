@@ -43,3 +43,13 @@
     
     Part 2:
     Answer = 933 ✅
+  
+> Day 5: Easy (It's a new day!)
+
+    Part 1:
+    The final code is: CFFHVVHNC ✅
+    (Stacks were): [['C', 'S', 'F', 'T', 'M'], ['F', 'L', 'M', 'P', 'B'], ['F', 'B', 'T', 'W', 'B'], ['H', 'T', 'P', 'Q', 'C', 'Z'], ['V', 'G', 'D', 'M', 'M', 'Z', 'W', 'B', 'S', 'H', 'G', 'G', 'T', 'G', 'J', 'S', 'T'], ['V'], ['H', 'J', 'P', 'B', 'Q', 'Q', 'N', 'W', 'J'], ['N', 'G', 'T', 'N'], ['C', 'S', 'W', 'S']]
+    
+    Part 2:
+    The final code is: FSZWBPTBG ✅
+    (Stacks were): [['F', 'B', 'M', 'C', 'G'], ['S', 'Q', 'W', 'M', 'V'], ['Z', 'C', 'S', 'T', 'B'], ['W', 'J', 'D', 'M', 'B', 'S'], ['B', 'Q', 'P', 'J', 'T', 'H', 'G', 'T', 'N', 'G', 'F', 'G', 'N', 'W', 'F', 'Q', 'W'], ['P'], ['T', 'M', 'J', 'H', 'S', 'P', 'T', 'C', 'Z'], ['B', 'V', 'T', 'N'], ['G', 'H', 'S', 'L']]
